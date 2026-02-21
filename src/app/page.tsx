@@ -15,8 +15,8 @@ export default function Home() {
       <div className="noise-overlay" />
       <AvailabilityPill />
       <Navbar />
+      <Hero />
       <div className="max-w-7xl mx-auto px-6 sm:px-12 lg:px-16">
-        <Hero />
         <ImpactMetrics />
         <Projects />
         <Experience />
